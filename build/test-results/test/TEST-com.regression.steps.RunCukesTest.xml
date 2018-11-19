@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.regression.steps.RunCukesTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="Purushothams-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <system-out><![CDATA[23:44:05.648 [Test worker] INFO com.epam.reportportal.service.Launch - Not rerun!
+23:44:28.665 [rp-io-11] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd7f3cdea20001cb4c1e' successfully finished.
+23:44:28.665 [rp-io-11] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:28.670 [rp-io-12] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd843cdea20001cb4c1f' has been created
+23:44:28.670 [rp-io-12] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:28.751 [rp-io-14] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd843cdea20001cb4c1f' successfully finished.
+23:44:28.751 [rp-io-14] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:28.819 [rp-io-15] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd6e3cdea20001cb4c19' successfully finished.
+23:44:28.819 [rp-io-15] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:28.913 [rp-io-16] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd6e3cdea20001cb4c18' successfully finished.
+23:44:28.913 [rp-io-16] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:29.015 [rp-io-17] DEBUG com.epam.reportportal.service.Launch - Launch with ID = '5bf2fd6e3cdea20001cb4c16' successfully finished.
+
+1 Scenarios (?[32m1 passed?[0m)
+3 Steps (?[32m3 passed?[0m)
+0m23.829s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EMPTY_NAME" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-19T18:14:05" hostname="Purushothams-MacBook-Pro.local" time="22.635">
+  <properties/>
+  <testcase name="User SignIn" classname="EMPTY_NAME" time="22.635"/>
+  <system-out><![CDATA[23:44:06.123 [rp-io-0] DEBUG com.epam.reportportal.service.Launch - ReportPortal launch with ID '5bf2fd6e3cdea20001cb4c16' has been created
+23:44:06.131 [rp-io-0] DEBUG com.epam.reportportal.utils.LaunchFile - ReportPortal's temp file '/var/folders/zd/b0jy9y1d29d0sbtymqtng9tw0000gn/T/reportportal/rplaunch-test_latest-#5-5bf2fd6e3cdea20001cb4c16.tmp' is created
+23:44:06.132 [rp-io-0] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Launch file create successfully completed
+23:44:06.224 [rp-io-1] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd6e3cdea20001cb4c18' has been created
+23:44:06.225 [rp-io-1] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:06.225 [rp-io-1] DEBUG com.epam.reportportal.service.Launch - Starting test item...rp-io-1
+23:44:06.271 [rp-io-2] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd6e3cdea20001cb4c19' has been created
+23:44:06.271 [rp-io-2] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:06.271 [rp-io-2] DEBUG com.epam.reportportal.service.Launch - Starting test item...rp-io-2
+23:44:06.316 [rp-io-3] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd6e3cdea20001cb4c1a' has been created
+23:44:06.316 [rp-io-3] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:08.705 [RxComputationThreadPool-4] DEBUG com.epam.reportportal.service.Launch - Starting test item...RxComputationThreadPool-4
+23:44:08.830 [rp-io-5] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd703cdea20001cb4c1c' has been created
+23:44:08.831 [rp-io-5] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:08.846 [rp-io-6] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd6e3cdea20001cb4c1a' successfully finished.
+23:44:08.846 [rp-io-6] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:12.975 [RxComputationThreadPool-1] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Logging context completed
+23:44:12.975 [RxComputationThreadPool-3] DEBUG com.epam.reportportal.service.Launch - Starting test item...RxComputationThreadPool-3
+23:44:13.063 [rp-io-8] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd753cdea20001cb4c1d' has been created
+23:44:13.064 [rp-io-8] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:13.074 [rp-io-7] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd703cdea20001cb4c1c' successfully finished.
+23:44:13.074 [rp-io-7] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:23.417 [RxComputationThreadPool-4] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Logging context completed
+23:44:23.418 [RxComputationThreadPool-2] DEBUG com.epam.reportportal.service.Launch - Starting test item...RxComputationThreadPool-2
+23:44:23.516 [rp-io-10] DEBUG com.epam.reportportal.service.Launch - ReportPortal item with ID '5bf2fd7f3cdea20001cb4c1e' has been created
+23:44:23.516 [rp-io-10] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Start test item successfully completed
+23:44:23.526 [rp-io-9] DEBUG com.epam.reportportal.service.Launch - TestItem with ID = '5bf2fd753cdea20001cb4c1d' successfully finished.
+23:44:23.526 [rp-io-9] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Finish test item completed
+23:44:28.462 [RxComputationThreadPool-3] DEBUG com.epam.reportportal.utils.SubscriptionUtils - Logging context completed
+23:44:28.462 [RxComputationThreadPool-1] DEBUG com.epam.reportportal.service.Launch - Starting test item...RxComputationThreadPool-1
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85) on port 18608
+Only local connections are allowed.
+Nov 19, 2018 11:44:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
